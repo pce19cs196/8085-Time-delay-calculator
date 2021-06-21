@@ -1,3 +1,5 @@
 # 8085-Time-delay-calculator
-I have written cpp program to calculate delay.
-This program will provide step by step calculation for time delay of 8085 microprocessor.
+This program will provide step by step calculation for time delay calculation fof 8085 microprocessor.
+You would need to paste this code in any cpp compiler.
+You need to provide two inputs : Crystal frequency(MHZ) ,  Time delay(sec)
+After providing the inputs, the step by step will be generated on the terminal
