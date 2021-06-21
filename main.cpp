@@ -12,7 +12,7 @@ int main() {
     std::cout << std::fixed << std::setprecision(8);
     double crystal_freq;
     double time_delay;
-    cout<<"Enter crytal freq(KHZ) & Time delay(sec)";
+    cout<<"Enter crytal freq(MHZ) & Time delay(sec)"<<endl;
     cin>>crystal_freq>>time_delay;
     cout<<"Given,crytal frequency = "<<crystal_freq<<endl;
     cout<<"      Optimal frequency: "<<crystal_freq<<"/2"<<" = "<<double (crystal_freq/2)<<endl;
